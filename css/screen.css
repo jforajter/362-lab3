@@ -217,7 +217,7 @@ body{
 	#input-email{
 		padding:115px;
 		font-size:55px;
-		background-color: ;
+	
 	}
 	#email{
 	
@@ -225,8 +225,6 @@ body{
 	#input-age-verification{
 		padding: 75px;
 		font-size: 35px;
-		background-color: ;
-		
 	}
 	#submit{
 		background-color: #1f1f1f;
