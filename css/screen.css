@@ -229,8 +229,9 @@ label {
 		background-color: ;
 		
 	}
-	#input-submit{
-		
+	#submit{
+		background-color: #1f1f1f;
+		color: white;
 	}
 }
 
