@@ -207,16 +207,17 @@ body{
 	background-color: #c2a8a8;
 	text-align: center;
 	color: white;
+	font-family: 'Fascinate Inline', cursive, arial;
 	}
 	
 	h1{
-		padding: 115px;
+		padding: 75px;
 		font-size: 65px;
 		color: #4C4A4A;
 	}
 	#input-email{
 		padding:115px;
-		font-size:55px;
+		font-size:35px;
 	
 	}
 	#email{
@@ -238,6 +239,7 @@ body{
 	background-color: #c2a8a8;
 	text-align: center;
 	color: white;
+	font-family: 'Fascinate Inline', cursive, arial;
 	}
 	
 	h1{
