@@ -207,6 +207,10 @@ label {
 	body{
 	background-color: aquamarine;
 	}
+	
+	h1{
+		padding: 55px;
+	}
 }
 
 /* ===== MODULAR STYLES ===== */
